@@ -14,7 +14,7 @@ This app will display in a list the `Transfer` events from the `ERC20` token con
 - Add the arbitraty address on the first field of the form.
 - Add the contract address on the second field of the form.
 
-### How to run
+### Run Locally
 
 - Clone the repo
 - Run `npm install` or `yarn install`

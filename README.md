@@ -1,4 +1,4 @@
-# Event Transfer Trest
+# Event Transfer Test
 
 This app will display in a list the `Transfer` events from the `ERC20` token contract showing the "from", "to" and the "amount" of the transfer.
 

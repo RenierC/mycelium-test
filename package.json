@@ -1,5 +1,6 @@
 {
   "name": "mycelium-test",
+  "author": "Renier Cuervo",
   "version": "0.1.0",
   "private": true,
   "scripts": {

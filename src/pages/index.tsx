@@ -11,8 +11,6 @@ const Home: NextPage = () => {
   const [formData, setFormData] = useState({
     walletAddress: "",
     erc20ContractAddress: "",
-    // walletAddress: "0x2aC757eed6f96f0B0a4F248F3148E615D56E8BE3",
-    // erc20ContractAddress: "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
   });
 
   const [tokenEvents, setTokenEvents] = useState([
@@ -78,6 +76,11 @@ const Home: NextPage = () => {
           width={300}
           height={300}
         />
+        <p className="my-4 text-white">Network: Arbitrum One</p>
+        <p className="mb-4 text-white">
+          Tested with the USDC contract
+          0xff970a61a04b1ca14834a43f5de4533ebddb5cc8
+        </p>
         <form className="flex flex-col items-center justify-center gap-8">
           <input
             className="w-96 rounded-md border-2 border-gray-300 p-2"

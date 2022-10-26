@@ -14,6 +14,7 @@ This app will display in a list the `Transfer` events from the `ERC20` token con
 - Visit [https://mycelium-test.vercel.app/](https://mycelium-test.vercel.app/)
 - Add the arbitraty address on the first field of the form.
 - Add the ERC20 compliant contract address on the second field of the form.
+- In your wallet transfer the ERC20 to an address back and forth and the list will populate
 
 ### Run Locally
 
